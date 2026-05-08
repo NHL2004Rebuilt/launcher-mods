@@ -4,6 +4,8 @@ upperads
 Animated Upper Ad Engine
 uppercrowd
 Animated Upper Crowd
+Arena Tweaker
+Modern Arena Tweaker
 fontloader
 Automatic Font Loader
 textureinjector
@@ -34,6 +36,8 @@ CP_HNICClock
 2020 HNIC Clock with Animated Goal Notification
 IGT
 In Game Tweaks
+JedMultiClocks
+Jed Multi Clocks
 jumbotronexample
 Jumbotron Video Example
 launcherlibs
