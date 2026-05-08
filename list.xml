@@ -213,6 +213,17 @@
     <file>In Game Tweaks.zip</file>
   </mod>
   <mod>
+    <name>Jed Multi Clocks</name>
+    <shortdescription>Custom Gameclocks TSN-MAGENTA-NHLTV</shortdescription>
+    <creator>Lepiney, Jedeash, Vod</creator>
+    <id>JedMultiClocks</id>
+    <version>1.0</version>
+    <dependency>launcherlibs</dependency>
+    <dependency>launchersystem</dependency>
+    <checksum>32367256e491bb84a9beea654370094fb847e7dede81b9f72022a0b9989085c4</checksum>
+    <file>Jed Multi Clocks.zip</file>
+  </mod>
+  <mod>
     <name>Jumbotron Video Example</name>
     <shortdescription>This is a demonstration of the video texture library. Select Toronto as the home team and press the "I" key while in replay mode</shortdescription>
     <creator>Vod</creator>
