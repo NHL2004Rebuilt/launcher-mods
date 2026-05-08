@@ -34,6 +34,17 @@
     <checksum>a3200510eeff0593dcc9f19a2d6f5e324c289d4b0ace24c5c9f6c0c06e1fcbbb</checksum>
     <file>Animated Upper Crowd.zip</file>
   </mod>
+    <mod>
+    <name>Modern Arena Tweaker</name>
+    <shortdescription>Modify the arenas with external files + Add random show to face off + Add random image to jumbotron</shortdescription>
+    <creator>Jedeash</creator>
+    <id>Arena Tweaker</id>
+    <version>1.3</version>
+    <dependency>launcherlibs</dependency>
+    <dependency>launchersystem</dependency>
+    <checksum>ea96c9cbd156c6a5b606689c2d1be8d1c8e3211233c92faee1507f82319ef604</checksum>
+    <file>Arena tweaker.zip</file>
+  </mod>
   <mod>
     <name>Automatic Font Loader</name>
     <shortdescription>Automatically loads all fonts from launcher/media/fonts/</shortdescription>
