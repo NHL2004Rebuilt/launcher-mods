@@ -202,14 +202,15 @@
     <file>In Game Tweaks.zip</file>
   </mod>
   <mod>
-           <name>Jed Multi Clocks</name>
+      <name>Jed Multi Clocks</name>
     <shortdescription>Custom Gameclocks TSN-MAGENTA-NHLTV</shortdescription>
     <creator>Lepiney, Jedeash, Vod</creator>
     <id>JedMultiClocks</id>
-    <version>1.03</version>
+    <version>1.04</version>
     <dependency>launcherlibs</dependency>
     <dependency>launchersystem</dependency>
-    <checksum>91fae81bbc0eb9e276df80e8108d082ad625eb05b117c2f52f490801ae88eda3</checksum>
+    <dependency>fontloader</dependency>
+    <checksum>b51e576c1e81f4c1248e944b55ed6bc5bff06d4e1c818e84adb29e37467fc112</checksum>
     <file>Jed Multi Clocks.zip</file>
   </mod>
   <mod>
