@@ -322,13 +322,13 @@
   <mod>
     <name>StatClock</name>
     <shortdescription>An in-game clock that shows various stats throughout the game.</shortdescription>
-    <creator>drgullen, Jedeash, Vod</creator>
+    <creator>drgullen, Jedeash, Vod, GeraldStar9</creator>
     <id>drgstatclock</id>
-    <version>3.03</version>
+    <version>3.1</version>
     <dependency>extendedgametimer</dependency>
     <dependency>launcherlibs</dependency>
     <dependency>launchersystem</dependency>
-    <checksum>6264eac32fe3112e481325bc3183f130db2d625e665655d51e3866f6c57dc108</checksum>
+    <checksum>684e104a3be7f2132a44e51919a5b24494faed3c7144c4f92bfce198163446d2</checksum>
     <file>StatClock.zip</file>
   </mod>
   <mod>
