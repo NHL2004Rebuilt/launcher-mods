@@ -202,16 +202,17 @@
     <file>In Game Tweaks.zip</file>
   </mod>
   <mod>
+      <mod>
     <name>Jed Multi Clocks</name>
-<shortdescription>Custom Gameclocks TSN-MAGENTA-NHLTV</shortdescription>
-<creator>Lepiney,Jedeash,Vod,drgulen</creator>
-<id>JedMultiClocks</id>
-<version>1.07</version>
-<dependency>launcherlibs</dependency>
-<dependency>launchersystem</dependency>
-<dependency>fontloader</dependency>
-<checksum>a98e953b18451c954fe2d8d8029368235b26d1ac0eaf4e5c200f44c9c25beca1</checksum>
-<file>Jed Multi Clocks.zip</file>
+    <shortdescription>Custom Gameclocks TSN-MAGENTA-NHLTV</shortdescription>
+    <creator>Lepiney,Jedeash,Vod,drgulen,Gerald9</creator>
+    <id>JedMultiClocks</id>
+    <version>1.08</version>
+    <dependency>launcherlibs</dependency>
+    <dependency>launchersystem</dependency>
+    <dependency>fontloader</dependency>
+    <checksum>8ce8ed4dafb17078daaa18802c1202cfbb92e848144a3260dfaaf75a2f24f7c4</checksum>
+    <file>Jed Multi Clocks.zip</file>
   </mod>
   <mod>
     <name>Jumbotron Video Example</name>
