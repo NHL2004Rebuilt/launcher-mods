@@ -228,12 +228,12 @@
   <mod>
     <name>Default Libraries</name>
     <shortdescription>Default launcher libraries</shortdescription>
-    <creator>Vod, drgullen, GeraldStar9</creator>
-    <version>2.61</version>
+    <creator>Vod, drgullen, GeraldStar9, Handyy</creator>
+    <version>2.7</version>
     <required/>
     <id>launcherlibs</id>
     <launcherversion>2</launcherversion>
-    <checksum>3eb2302bc3c2b56388cb47f311a378a348cd5e4a6de6ffe67698af3a88753921</checksum>
+    <checksum>87fafd6a7d54ecc4f9dcff46d9d0849a5ee27481683f0d92e1ce1d18782ea123</checksum>
     <file>Libraries.zip</file>
   </mod>
   <mod>
