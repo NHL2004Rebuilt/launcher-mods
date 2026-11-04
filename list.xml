@@ -68,6 +68,17 @@
     <file>Channels_2020_Cerebral.zip</file>
   </mod>
   <mod>
+    <name>Custom Line Change Overlay</name>
+    <shortdescription>Selectable custom line change overlays with live fatigue</shortdescription>
+    <creator>GeraldStar9</creator>
+    <id>LineChangeOverlay</id>
+    <version>1</version>
+    <dependency>launcherlibs</dependency>
+    <dependency>launchersystem</dependency>
+    <checksum>0be3ce49296103620c6e11c1cbcc1be33e9768648d1026033bdf5b72011b577f</checksum>
+    <file>Custom Line Change Overlay.zip</file>
+  </mod>
+  <mod>
     <name>Cutscene FOV</name>
     <shortdescription>Randomly set the FOV for cutscenes. You can set the minimum and maximum FOV in the options.</shortdescription>
     <creator>Vod</creator>
