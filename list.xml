@@ -72,10 +72,10 @@
     <shortdescription>Selectable custom line change overlays with live fatigue</shortdescription>
     <creator>GeraldStar9</creator>
     <id>LineChangeOverlay</id>
-    <version>1</version>
+    <version>1.1</version>
     <dependency>launcherlibs</dependency>
     <dependency>launchersystem</dependency>
-    <checksum>0be3ce49296103620c6e11c1cbcc1be33e9768648d1026033bdf5b72011b577f</checksum>
+    <checksum>d4f91b3bd5348b1bb92c2acc2420981ac2874cf352d27d479b07f88f35bdd01e</checksum>
     <file>Custom Line Change Overlay.zip</file>
   </mod>
   <mod>
